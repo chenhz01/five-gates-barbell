@@ -1,0 +1,41 @@
+five-gates-barbell
+Five-Gate Method 1.0 (FGM-1.0) + barbell allocation rule
+Copyright 2026 chenhz01 (Zhengming / 正明, for Shanlun / 善伦)
+
+Dual licence — the two halves cover different objects
+-----------------------------------------------------
+1) Code (gates.py, test_gates.py):
+   Apache License 2.0 — full text in LICENSE.
+   Use, modify, redistribute, including commercially and in closed source,
+   subject to the Apache-2.0 terms.
+
+2) Method and documentation (README.md, templates/, examples/):
+   Creative Commons Attribution 4.0 International — full statement in
+   LICENSE-SPEC, legal code at
+   https://creativecommons.org/licenses/by/4.0/legalcode
+   You may adapt the method for any purpose, including commercial use.
+
+When attribution is required
+----------------------------
+Attribution is required only when you publicly claim that a product, process,
+or advisory service "follows", "uses", "is compliant with", or "is certified
+under" the Five-Gate Method / FGM-1.0.
+
+Running the gates privately, adapting them, or teaching them without such a
+claim requires no attribution.
+
+Recommended attribution string:
+
+    Uses the Five-Gate Method 1.0 (FGM-1.0) by chenhz01 (Zhengming),
+    https://github.com/chenhz01/five-gates-barbell
+
+Naming
+------
+"Five-Gate Method", "FGM-1.0", "正明", and "Zhengming" identify this method and
+its author. Adapted versions that change the gates must use a different name
+and version, and must not present themselves as FGM-1.0.
+
+No warranty
+-----------
+Provided "AS IS", without warranty of any kind. This is a decision aid, not
+investment, legal, or financial advice.
